@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## paper AR plane
 
-You can use the [editor on GitHub](https://github.com/Stompyy/paperARplanePrivacyPolicy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Privacy policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Paper AR plane uses apple's ARKit plugin to use the camera feed as the basis of the augmented reality game's world.  
 
-### Markdown
+This game does not collect, store, or share any of the camera feeds's information.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This game does not collect, store, or share any personal information, or your location.  
 
-```markdown
-Syntax highlighted code block
+We do not allow companies (such as advertising) to collect data through our apps or website.  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stompyy/paperARplanePrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or concerns about our privacy policies, please [contact us.](jamfirstbattlescreens@gmail.com)  
